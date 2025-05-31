@@ -9,10 +9,10 @@
 - [✅ Connect (15%)](#-connect)
 - [✅ API Patterns (5%)](#-api-patterns)
 - [✅ Declines, Disputes & Refunds (10%)](#-declines-disputes--refunds)
-- [✅ Reporting & Reconciliation](#-reporting--reconciliation)
-- [✅ Global Business & Compliance](#-global-business--compliance)
-- [✅ Payment Methods](#-payment-methods)
-- [✅ Using Radar & Reducing Fraud](#-using-radar--reducing-fraud)
+- [✅ Reporting & Reconciliation (5%)](#-reporting--reconciliation)
+- [✅ Global Business & Compliance (5%)](#-global-business--compliance)
+- [✅ Payment Methods (10%)](#-payment-methods)
+- [✅ Using Radar & Reducing Fraud (10%)](#-using-radar--reducing-fraud)
 
 ## ✅ Payments Section
 
