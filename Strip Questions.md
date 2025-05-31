@@ -1,21 +1,23 @@
-ToC 
 # 👨🏻‍🎓 Stripe Associate Architect Exam
 
 > *Topic-wise MCQs and T/F — with answers included*
 
 ## Table of Contents
 
-- [✅ Payments Section (20%)](#-payments-section-20)
-- [✅ Billing Section (10%)](#-billing-section-10)
-- [✅ Connect (15%)](#-connect-15)
-- [✅ API Patterns (5%)](#-api-patterns-5)
-- [✅ Declines, Disputes & Refunds (10%)](#-declines-disputes--refunds-10)
+- [✅ Payments Section (20%)](#-payments-section)
+- [✅ Billing Section (10%)](#-billing-section)
+- [✅ Connect (15%)](#-connect)
+- [✅ API Patterns (5%)](#-api-patterns)
+- [✅ Declines, Disputes & Refunds (10%)](#-declines-disputes--refunds)
 - [✅ Reporting & Reconciliation](#-reporting--reconciliation)
 - [✅ Global Business & Compliance](#-global-business--compliance)
 - [✅ Payment Methods](#-payment-methods)
 - [✅ Using Radar & Reducing Fraud](#-using-radar--reducing-fraud)
 
-## ✅ Payments Section (20%)
+## ✅ Payments Section
+
+**20% of exam** |
+Analyze business requirements and propose the best Stripe account structures.
 
 ### 🔷 1. Analyzing Business Requirements & Account Structures
 
@@ -318,7 +320,10 @@ D) You must create a new account for that currency
 
 ---
 
-## ✅ Billing Section (10%)
+## ✅ Billing Section
+
+**10% of exam** |
+Describe features, when to use them, and how to migrate to Stripe Billing.
 
 ### 🔷 1. Stripe Billing Features & Migration
 
@@ -522,7 +527,10 @@ D) Subscription is cancelled and restarted
 
 ---
 
-## ✅ Connect (15%)
+## ✅ Connect
+
+**15% of exam** |
+Describe Connect features, account types, funds flow, onboarding, and reporting.
 
 ### 🔷 1. Connect Features, Account Types & Funds Flow
 
@@ -832,7 +840,10 @@ D) `merchant_ref_id`
 
 ---
 
-## ✅ API Patterns (5%)
+## ✅ API Patterns
+
+**5% of exam** |
+Demonstrate an understanding of API fundamentals, API events, webhooks, security, & testing.
 
 ### 🔐 1. API Keys
 
@@ -1049,7 +1060,10 @@ D) Disable Stripe security features
 
 ---
 
-## ✅ Declines, Disputes & Refunds (10%)
+## ✅ Declines, Disputes & Refunds
+
+**10% of exam** |
+Describe the challenges merchants face when dealing with declines, disputes, and refunds and discuss the ways they can reduce them using best practices and Stripe tools.
 
 ### ❌ 1. Understanding Declines and Failed Payments
 
@@ -1265,6 +1279,9 @@ D) Adaptive payouts
 ---
 
 ## ✅ Reporting & Reconciliation
+
+**5% of exam** |
+Describe the reports a merchant should use to solve a given business need and identify typical reconciliation tasks a merchant might take using Stripe.
 
 ### **1. Which Stripe report is most appropriate for reconciling individual charges to payouts?**
 
@@ -1488,6 +1505,9 @@ D. Conversion Funnel Report
 
 ## ✅ Global Business & Compliance
 
+ **5% of exam** |
+Describe the common issues a global business will face when using Stripe to accept payments and move money between accounts including foreign exchange, cross-border transactions, and common payment methods.
+
 ### **1. What challenge does foreign exchange (FX) present to global businesses using Stripe?**
 
 A. It increases the number of chargebacks.
@@ -1708,6 +1728,9 @@ D. Payment Links
 ---
 
 ## ✅ Payment Methods
+
+**10% of exam** |
+Demonstrate an understanding of common payment methods used by Stripe users in North America and Europe.  
 
 ### **1. Which payment method is commonly used in the United States for direct bank payments?**
 
@@ -1930,6 +1953,9 @@ D. Mandatory Payment Links
 ---
 
 ## ✅ Using Radar & Reducing Fraud
+
+**10% of exam** |
+Demonstrate an understanding of the types of fraud a Stripe user may experience and how to use Radar and Radar for Fraud Teams to reduce fraud.
 
 ### **1. What type of fraud is most common in online card payments?**
 
