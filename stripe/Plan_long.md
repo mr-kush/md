@@ -1,4 +1,6 @@
-Great! Based on your background and the Stripe Associate Architect Certification guide, here’s a **focused 2–3 week study plan** tailored to your experience and goals. You’ll go deep into Stripe concepts while leveraging your API and development knowledge.
+# A **focused 2–3 week study plan**
+
+You’ll go deep into Stripe concepts while leveraging your API and development knowledge.
 
 ---
 
